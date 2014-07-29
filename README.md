@@ -1,4 +1,4 @@
 laurieskelly.github.io
 ======================
 
-[linky](laurieskelly.github.io)
+[linky](http://laurieskelly.github.io)
